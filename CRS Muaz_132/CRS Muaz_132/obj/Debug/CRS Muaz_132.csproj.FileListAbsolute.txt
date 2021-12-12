@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\bin\Debug\CRS Muaz_132.dll
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\bin\Debug\CRS Muaz_132.pdb
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\obj\Debug\CRS Muaz_132.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\obj\Debug\CRS Muaz_132.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\obj\Debug\CRS Muaz_132.dll
+C:\Users\Asus\source\repos\CRS Muaz_132\CRS Muaz_132\obj\Debug\CRS Muaz_132.pdb
