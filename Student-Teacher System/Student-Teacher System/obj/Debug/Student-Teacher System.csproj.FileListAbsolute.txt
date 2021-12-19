@@ -1,0 +1,11 @@
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\bin\Debug\Student-Teacher System.exe.config
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\bin\Debug\Student-Teacher System.exe
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\bin\Debug\Student-Teacher System.pdb
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.csproj.AssemblyReference.cache
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student_Teacher_System.Form1.resources
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student_Teacher_System.Properties.Resources.resources
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.csproj.GenerateResource.cache
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.csproj.CoreCompileInputs.cache
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.exe
+C:\Users\Muaz IUT\source\repos\Student-Teacher System\Student-Teacher System\obj\Debug\Student-Teacher System.pdb
