@@ -1,0 +1,11 @@
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.csproj.AssemblyReference.cache
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV_Lab.Form1.resources
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV_Lab.Properties.Resources.resources
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.csproj.GenerateResource.cache
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.csproj.CoreCompileInputs.cache
+C:\Users\muaz_\Source\Repos\CSV Lab\bin\Debug\CSV Lab.exe.config
+C:\Users\muaz_\Source\Repos\CSV Lab\bin\Debug\CSV Lab.exe
+C:\Users\muaz_\Source\Repos\CSV Lab\bin\Debug\CSV Lab.pdb
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.exe
+C:\Users\muaz_\Source\Repos\CSV Lab\obj\Debug\CSV Lab.pdb
