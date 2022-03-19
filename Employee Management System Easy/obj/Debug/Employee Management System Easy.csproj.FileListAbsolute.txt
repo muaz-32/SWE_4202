@@ -1,0 +1,11 @@
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\bin\Debug\Employee Management System Easy.exe.config
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\bin\Debug\Employee Management System Easy.exe
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\bin\Debug\Employee Management System Easy.pdb
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.csproj.AssemblyReference.cache
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.csproj.SuggestedBindingRedirects.cache
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee_Management_System_Easy.Form1.resources
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee_Management_System_Easy.Properties.Resources.resources
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.csproj.GenerateResource.cache
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.csproj.CoreCompileInputs.cache
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.exe
+C:\Users\muaz_\Source\Repos\Employee Management System Easy\obj\Debug\Employee Management System Easy.pdb
