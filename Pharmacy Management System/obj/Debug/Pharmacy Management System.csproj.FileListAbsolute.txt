@@ -1,0 +1,11 @@
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\muaz_\Source\Repos\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
